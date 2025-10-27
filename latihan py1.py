@@ -1,3 +1,5 @@
+# latihanpy1
+
 #PROGRAM MENENTUKAN BILANGAN TERBESAR DARI 4 BILANGAN
 
 #INPUT 4 BILANGAN
@@ -16,4 +18,5 @@ if d > terbesar :
     terbesar = d
 
 #OUTPUT HASIL
+
 print("bilangan terbesar adalah", terbesar)

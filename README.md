@@ -18,11 +18,11 @@ Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 v
 
 Alur program
 
-mulai program
-minta pengguna memsaukan jumlah data
-inisisalisasi list kosong untuk menampung data
-ulangi proses input sejumlah data
-simpan setiap data ke dalam list
-setelah semua data masuk, urutkan data dari terkecil ke terbesar
-tampilakn hasil urutan
-selesai
+1. mulai program
+2. minta pengguna memsaukan jumlah data
+3. inisisalisasi list kosong untuk menampung data
+4. ulangi proses input sejumlah data
+5. simpan setiap data ke dalam list
+6. setelah semua data masuk, urutkan data dari terkecil ke terbesar
+7. tampilakn hasil urutan
+8. selesai

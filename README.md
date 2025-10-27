@@ -1,4 +1,4 @@
-STRUKTUR KONDISI
+# STRUKTUR KONDISI
 
 Latihan 1
  Buat program sederhana dengan input 4 buah bilangan, kemudian

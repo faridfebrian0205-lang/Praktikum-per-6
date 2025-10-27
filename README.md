@@ -1,3 +1,8 @@
+Latihan 1
+ • Buat program sederhada dengan input 4 buah bilangan, kemudian
+ tentukan bilangan terbesar dari kedua bilangan tersebut
+ menggunakan statement if.
+
 PENJELASAN
 1. Program meminta 4 input bilangan dari pengguna
 2. Variable "terbesar" diinisialisaikan dengan nilai a

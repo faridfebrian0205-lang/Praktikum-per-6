@@ -55,4 +55,14 @@ nilai n diisi pada saat runtime
 anda bisa menggunakan kombinasi while dan for untuk 
 menyelesaikannya
 
-
+1. Mulai
+2. Import modul random
+3. Input nilai n dari pengguna
+4. Inisialisasi count = 0
+5. Jalankan loop while count < n
+6. Di dalamnya, jalankan loop for i in range(5)
+7. Hasilkan bilangan acak bilangan = random.random()
+8. Jika bilangan < 0.5, cetak bilangan dan tambahkan count
+9. Jika count == n, keluar dari for
+10. Ulangi hingga while selesai
+11. Selesai
